@@ -17,8 +17,8 @@ recent_num: 20
 weibo: 
 
 # avatar and Favicon
-avatar: http://pm5cpa6i5.bkt.clouddn.com/markdown/遇见东南.jpg
-favicon: http://pm5cpa6i5.bkt.clouddn.com/markdown/遇见东南.jpg 
+avatar: http://pm5cpa6i5.bkt.clouddn.com/markdown/头像.png
+favicon: http://pm5cpa6i5.bkt.clouddn.com/markdown/头像.png
 
 # disqus config
 disqus:
